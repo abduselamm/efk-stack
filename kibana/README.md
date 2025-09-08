@@ -1,6 +1,3 @@
-Here’s your content neatly formatted in Markdown:
-
-````markdown
 # 📜 Deploying Kibana on Kubernetes for Log Visualization
 
 In the vast sea of data that modern applications generate, logs hold a treasure trove of insights. Visualizing and analyzing these logs can be like navigating through a dense fog without a compass. This is where **Kibana**, a powerful open-source visualization tool, comes into play.  
@@ -14,14 +11,6 @@ When paired with **Elasticsearch** for storage and search, and **Kubernetes** fo
 Imagine Kibana as the lens that brings the details of your data into focus, allowing you to navigate through the complexities with ease.  
 
 It connects to Elasticsearch, where your logs are stored, and lets you create visualizations such as charts and graphs. These visualizations are then organized into **dashboards**, providing you with insights at a glance.
-
----
-
-## ✍ Architecture Diagram
-
-
-![Kibana Architecture](./kibana-architecture.png)
-
 
 ---
 
